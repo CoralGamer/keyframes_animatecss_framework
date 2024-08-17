@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background-image: url("/multimedia/pexels-philippedonn-1169754.jpg");
+    background-position: center center;
+    background-size: 3400px;
+    position: fixed;
+    background-repeat: no-repeat;
+}
